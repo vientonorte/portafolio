@@ -22,4 +22,4 @@ Abrir `Dashboard/index.html` directamente en el navegador. No requiere servidor.
 
 ---
 
-Rodrigo Gaete · [@vientonorte](https://github.com/vientonorte)
+Rodrigo Gaete · [@vientonorte](https://github.com/vientonorte) · [LinkedIn](https://www.linkedin.com/in/rodrigo-gaete-ux/)
